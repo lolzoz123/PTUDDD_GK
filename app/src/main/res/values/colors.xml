@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_bg">#E6141C26</color>
+    <color name="widget_chip">#26FFFFFF</color>
+    <color name="widget_accent">#4FC3F7</color>
+    <color name="widget_text">#FFFFFFFF</color>
+    <color name="widget_text_secondary">#B3FFFFFF</color>
+    <color name="floating_bg">#CC000000</color>
+    <color name="ic_launcher_bg">#141C26</color>
+</resources>

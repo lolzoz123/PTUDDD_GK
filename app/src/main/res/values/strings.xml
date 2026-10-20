@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đồng hồ Widget</string>
+    <string name="wallpaper_label">Đồng hồ động</string>
+    <string name="wallpaper_desc">Hình nền động hiển thị đồng hồ, ngày tháng và mức pin theo thời gian thực.</string>
+    <string name="widget_desc">Widget đồng hồ tự thích ứng theo kích thước và dữ liệu.</string>
+
+    <string name="tile_floating_label">Đồng hồ nổi</string>
+    <string name="tile_ambient_label">Đồng hồ AOD</string>
+    <string name="tile_on">Đang bật</string>
+    <string name="tile_off">Đang tắt</string>
+
+    <string name="notif_channel">Đồng hồ nổi</string>
+    <string name="notif_title">Đồng hồ nổi đang chạy</string>
+    <string name="notif_text">Chạm để mở ứng dụng</string>
+    <string name="notif_stop">Tắt</string>
+
+    <string name="greet_morning">Chào buổi sáng</string>
+    <string name="greet_noon">Chào buổi trưa</string>
+    <string name="greet_afternoon">Chào buổi chiều</string>
+    <string name="greet_evening">Chào buổi tối</string>
+    <string name="battery_low">Pin yếu</string>
+
+    <!-- Màn hình chính -->
+    <string name="main_subtitle">5 cách hiển thị đồng hồ trên Android</string>
+    <string name="card_wallpaper_title">1. Hình nền động (Live Wallpaper)</string>
+    <string name="card_wallpaper_desc">Đồng hồ analog chuyển động mượt, nền đổi màu theo giờ trong ngày, vòng pin cập nhật theo thời gian thực.</string>
+    <string name="btn_wallpaper">Đặt làm hình nền</string>
+
+    <string name="card_tile_title">2. Quick Settings Tile</string>
+    <string name="card_tile_desc">Ô điều khiển nhanh trong bảng cài đặt nhanh: bật/tắt đồng hồ nổi và mở đồng hồ AOD.</string>
+    <string name="btn_tile_floating">Thêm ô Đồng hồ nổi</string>
+    <string name="btn_tile_ambient">Thêm ô Đồng hồ AOD</string>
+    <string name="tile_hint_title">Thêm ô vào Cài đặt nhanh</string>
+    <string name="tile_hint_msg">Vuốt xuống 2 lần từ cạnh trên màn hình, chọn biểu tượng bút chì (chỉnh sửa), rồi kéo ô \"%1$s\" vào khu vực đang hiển thị.</string>
+
+    <string name="card_aod_title">3. Always-on Display</string>
+    <string name="card_aod_desc">Màn hình đồng hồ tối giản: nền đen, tự dịch chuyển vị trí chống burn-in, hiển thị được cả khi máy đang khóa. Chạm vào màn hình để thoát.</string>
+    <string name="btn_aod">Mở đồng hồ AOD</string>
+
+    <string name="card_float_title">4. Widget nổi (Floating)</string>
+    <string name="card_float_desc">Đồng hồ nổi trên mọi ứng dụng. Kéo để di chuyển, chạm để mở rộng, bấm ✕ để đóng.</string>
+    <string name="switch_float">Bật đồng hồ nổi</string>
+    <string name="need_overlay">Hãy cấp quyền hiển thị trên các ứng dụng khác rồi bật lại.</string>
+
+    <string name="card_adaptive_title">5. Widget thích ứng (Adaptive)</string>
+    <string name="card_adaptive_desc">Tự đổi bố cục theo kích thước (nhỏ, vừa, lớn) và đổi nội dung theo dữ liệu: lời chào, mức pin, báo thức kế tiếp. Kéo giãn widget để thử.</string>
+    <string name="btn_pin_widget">Thêm widget vào màn hình chính</string>
+    <string name="pin_unsupported">Launcher hiện tại không hỗ trợ ghim widget. Hãy nhấn giữ màn hình chính, chọn Widget, rồi chọn Đồng hồ Widget.</string>
+
+    <string name="settings_title">Tuỳ chỉnh</string>
+    <string name="settings_accent">Màu nhấn</string>
+    <string name="settings_24h">Định dạng 24 giờ</string>
+    <string name="settings_seconds">Hiển thị kim giây (hình nền)</string>
+</resources>
